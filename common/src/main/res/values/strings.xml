@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PatronusChellange</string>
+    <string name="list_device_holders_header_title">Device holders</string>
+    <string name="details_device_holders_address_title">ADDRESS</string>
+</resources>
